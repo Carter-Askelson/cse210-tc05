@@ -3,7 +3,9 @@ class Director:
     
     Attributes:
     <fill out class member variables as you add them>
+        user_guesses (int): holds how many guesses the user has done already
     """
+    user_guesses = 0
 
     def start_game():
         """<summary of function>
