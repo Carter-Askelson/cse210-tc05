@@ -1,4 +1,4 @@
-from jumper import director
+from director import Director
 
 
 def main():
