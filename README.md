@@ -24,6 +24,7 @@ root                    (project root folder)
 Python 3.8.0
 
 # Authors
-TODO: Add your names and emails here
-
-Michelle Caceres - michelledewar2020@gmail.com
+- Michelle Caceres - michelledewar2020@gmail.com
+- Alex Parker - parkeale@byui.edu
+- Graham Walker - walkerg5@byui.edu
+- Carter Askelson
