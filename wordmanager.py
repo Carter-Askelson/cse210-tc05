@@ -4,7 +4,7 @@ import random
 
 
 class WordManager:
-    """ Class WordManager is responsible for all things pertaining to the guessing word in the game Jumper
+    """Class WordManager is responsible for all things pertaining to the guessing word in the game Jumper
 
     Attributes:
         word_bank (list): holds a list of random words to be used as the word to be guessed
@@ -26,7 +26,7 @@ class WordManager:
         """Returns a random word from the word_bank list using the random library
 
         Returns:
-            string
+            str
         """
         return self.word_bank[random.randint(0, len(self.word_bank))]
 
