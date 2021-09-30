@@ -1,5 +1,5 @@
-from wordmanager import WordManager
-from director import Director
+from jumper.director import Director
+
 
 def main():
     director = Director()

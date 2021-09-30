@@ -1,4 +1,3 @@
-
 import random
 #random module gives us the shuffle function to randomize the card order of the deck list
 
