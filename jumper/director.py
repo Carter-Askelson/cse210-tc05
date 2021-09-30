@@ -1,4 +1,4 @@
-from wordmanager import WordManager
+from .wordmanager import WordManager
 
 
 class Director:
