@@ -1,9 +1,9 @@
-from jumper.director import Director
+from jumper import director
 
 
 def main():
-    director = Director()
-    director.start_game()
+    director_game = Director()
+    director_game.start_game()
 
 if __name__ == "__main__":
     main()
