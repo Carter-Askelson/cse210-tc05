@@ -1,2 +1,2 @@
-import director
-import wordmanager
+from .director import Director
+from.wordmanager import WordManager
